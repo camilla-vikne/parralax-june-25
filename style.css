@@ -1,0 +1,15 @@
+/* header, h1, nav, ul, a, li
+main, section, p
+#neon-diner, #skyscraper, #tokyo-street, #tokyo-restaurant, #palms
+.bg-img, .bg-color */
+
+/* Pink: #F72585
+Purple: #7209B7
+Indigo: #3A0CA3
+Blue: #4361EE
+Turquoise: #4CC9F0 */
+
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
